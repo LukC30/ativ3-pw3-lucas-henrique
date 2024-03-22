@@ -1,3 +1,5 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.inputs{
+  border-radius: 10px;
+  padding-bottom: 10px;
+  width: 20%;
+  height: 10%;
+  font-size: larger;
+}
+
+.divLista{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    
+
 }
